@@ -2,6 +2,8 @@
 
 Shows what you are doing in Wreckfest on your Discord profile, for example:
 
+<img width="241" height="110" alt="image" src="https://github.com/user-attachments/assets/7064331a-a4ff-4d10-9048-520341020d52" />
+
 > **Wreckfest**
 > Banger Race · Firwood Motocenter
 > Rally Circuit · 24 cars · 3 laps
@@ -21,12 +23,7 @@ To uninstall, delete `dinput8.dll`.
 - Mod tracks show their internal name, tidied up.
 - It conflicts with other mods that also ship a `dinput8.dll`.
 
-## Build
 
-Run `build.cmd`. It needs Visual Studio or the Build Tools with the C++ x64 tools.
 
-`tools/gen_track_names.py` regenerates `src/track_names.h` from the game's data.
 
-## Licence
-
-MIT. This project is not affiliated with THQ Nordic, Bugbear or Discord.
+This project is not affiliated with THQ Nordic, Bugbear or Discord.
