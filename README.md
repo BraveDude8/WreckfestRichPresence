@@ -13,7 +13,9 @@ In menus it shows "In menus".
 
 ## Other Functionality
 
-It also stops your game from crashing when loading a Nexus with the Tournament front spoiler equipped and an FFB mod (or anything that modifies shared vehicle files) installed.
+Fixed the Nexus Tournament spoiler crash caused by loading the Nexus RX with the Tournament Front Spoiler + any non-stock bumper with a mod active that changes shared vehicle files (FFB)
+Fixed Wreckfest ignoring mod vehicle files that overwrite stock vehicle files (chassis/steering/differential/sounds)
+
 
 ## Install
 
