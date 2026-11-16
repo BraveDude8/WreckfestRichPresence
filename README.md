@@ -11,6 +11,10 @@ Shows what you are doing in Wreckfest on your Discord profile, for example:
 
 In menus it shows "In menus".
 
+## Other Functionality
+
+It also stops your game from crashing when loading a Nexus with the Tournament front spoiler equipped and an FFB mod (or anything that modifies shared vehicle files) installed.
+
 ## Install
 
 Copy `dinput8.dll` into the Wreckfest folder, next to `Wreckfest_x64.exe`. With Steam that is usually `C:\Program Files (x86)\Steam\steamapps\common\Wreckfest`. Discord's activity sharing must be on (User Settings → Activity Privacy).
