@@ -1,4 +1,4 @@
-# Wreckfest Discord Rich Presence
+# Wreckfest Discord Rich Presence (and Bug Fixes)
 
 Shows what you are doing in Wreckfest on your Discord profile, for example:
 
@@ -14,6 +14,7 @@ In menus it shows "In menus".
 ## Other Functionality
 
 Fixed the Nexus Tournament spoiler crash caused by loading the Nexus RX with the Tournament Front Spoiler + any non-stock bumper with a mod active that changes shared vehicle files (FFB)
+
 Fixed Wreckfest ignoring mod vehicle files that overwrite stock vehicle files (chassis/steering/differential/sounds)
 
 
