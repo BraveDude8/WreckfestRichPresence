@@ -2,8 +2,7 @@
 
 Shows what you are doing in Wreckfest on your Discord profile, for example:
 
-<img width="241" height="110" alt="image" src="https://github.com/user-attachments/assets/7064331a-a4ff-4d10-9048-520341020d52" />
-
+<img width="515" height="215" alt="image" src="https://github.com/user-attachments/assets/f12cd166-de03-44cb-8b2d-f5ab98d644d0" />
 
 > **Wreckfest**
 > Banger Race · Firwood Motocenter
